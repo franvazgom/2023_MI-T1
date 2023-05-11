@@ -9,7 +9,7 @@ input_values = [
     # Test case 1
     (
         [""],
-        ["Hello World!"],
-        "Debe salir\nHello World!"
+        ["Hello world!"],
+        "Debe salir\nHello world!"
     )
 ]
